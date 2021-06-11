@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name FLR2PCIe)(type Legacy)(uri ${KIPRJMOD}/KCORES-FlexibleLOM-Adapter.lib)(options "")(descr ""))
+  (lib (name OCP2PCIe_Lib)(type Legacy)(uri C:/Users/Ziang/Documents/OCP2PCIe/OCP2PCIe_Lib/OCP2PCIe_Lib.lib)(options "")(descr ""))
 )
